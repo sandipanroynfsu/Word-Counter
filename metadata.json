@@ -1,0 +1,5 @@
+{
+  "name": "Word Counter Pro",
+  "description": "A sleek and powerful word counting tool that analyzes your text to provide key metrics like word count, character count, reading time, and more. Perfect for writers, students, and professionals.",
+  "requestFramePermissions": []
+}
